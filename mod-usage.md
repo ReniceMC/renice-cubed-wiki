@@ -24,7 +24,7 @@ Not all functionality and hotkeys are listed here. For deeper reference visit [o
 | Inventory HUD+                  | Open config                |            `O` |
 | Iris                            | Reload shaders             |            `R` |
 | Iris                            | Toggle shaders             |            `K` |
-| Iris                            | Open shader pack selection |            `O` |
+| Iris                            | Open shader pack selection |    `Page Down` |
 | Jade                            | Show details               |   `Left Shift` |
 | MaLiLib                         | Open config menu           |      `.` + `\` |
 | Quick Actions                   | Open quick actions         |           `F7` |

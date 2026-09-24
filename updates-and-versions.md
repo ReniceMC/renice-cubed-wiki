@@ -3,7 +3,7 @@
 The versioning system of our modpack looks like this:
 
 ```txt
-A.B.C-stage
+A.B.C[-stage]
 ```
 
 - **A**.B.C - Major update, used only when Renice³ moves to a new [game drop](https://minecraft.wiki/w/Game_drop).
@@ -21,6 +21,8 @@ A.B.C-stage
 - `rc` - release candidate, where the mod list is included and the technical side works correctly, but some settings, configs, or defaults still need final review and polish.
 
 - `release` - stable, cleanly assembled builds without major known issues or critical conflicts.
+
+Stable releases omit the stage suffix (for example, `2.1.2`).
 
 ## How often are updates released?
 

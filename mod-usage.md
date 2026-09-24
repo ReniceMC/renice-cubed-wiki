@@ -15,21 +15,28 @@ Not all functionality and hotkeys are listed here. For deeper reference visit [o
 | Mod / Feature                   | Action                     |            Key |
 | ------------------------------- | -------------------------- | -------------: |
 | Accurate Block Placement Reborn | Accurate Placement toggle  | `Grave Accent` |
-| Accurate Block Placement Reborn | Fast Breaking              |      `Page Up` |
+| Accurate Block Placement Reborn | Toggle Breaking Mode       |            `=` |
 | Debug                           | Cycle spectator            |    `Right Alt` |
 | Debug                           | Show chunk boundaries      |       `Insert` |
-| Fabrishot                       | Take 4K screenshot         |           `F9` |
+| Renice Shot                     | Take 4K screenshot         |           `F9` |
 | Full Brightness Toggle          | Toggle full brightness     |            `N` |
 | Inventory HUD+                  | Toggle inventory HUD       |           `F8` |
 | Inventory HUD+                  | Open config                |            `O` |
 | Iris                            | Reload shaders             |            `R` |
 | Iris                            | Toggle shaders             |            `K` |
-| Iris                            | Open shader pack selection |    `Page Down` |
+| Iris                            | Open shader pack selection |            `-` |
 | Jade                            | Show details               |   `Left Shift` |
 | MaLiLib                         | Open config menu           |      `.` + `\` |
 | Quick Actions                   | Open quick actions         |           `F7` |
 | Zoomify                         | Default zoom               |            `C` |
 | Zoomify                         | Secondary zoom             |           `F6` |
+
+## JEI
+
+| Action | Key |
+|---|---:|
+| Previous recipe page | `Page Up` |
+| Next recipe page | `Page Down` |
 
 ## Simple Voice Chat
 

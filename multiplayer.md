@@ -37,13 +37,34 @@ Voice chat is server-based. It works when the server supports it. On servers wit
 
 Renice³ uses these voice chat controls:
 
-| Action | Key |
-|---|---:|
-| Push to Talk | `Mouse 5` |
-| Mute Microphone | `'` |
-| Disable Voice Chat | `,` |
-| Hide Voice Chat Icons | `[` |
-| Open Group Chat | `G` |
+<table data-search="false">
+<thead>
+<tr>
+<th>Action</th>
+<th align="right">Key</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Push to Talk</td>
+<td align="right"><code>Mouse 5</code></td>
+</tr>
+<tr>
+<td>Mute Microphone</td>
+<td align="right"><code>&#39;</code></td>
+</tr>
+<tr>
+<td>Disable Voice Chat</td>
+<td align="right"><code>,</code></td>
+</tr>
+<tr>
+<td>Hide Voice Chat Icons</td>
+<td align="right"><code>[</code></td>
+</tr>
+<tr>
+<td>Open Group Chat</td>
+<td align="right"><code>G</code></td>
+</tr>
+</tbody></table>
 
 You can change these in **Options** → **Controls** → **Key binds...**.
 
@@ -66,11 +87,26 @@ If you want distance-based voice again, leave the group and return to proximity 
 
 Several client-side chat improvements are included for a cleaner multiplayer experience.
 
-| Mod | What it does |
-|---|---|
-| **[No Chat Reports](https://modrinth.com/mod/no-chat-reports)** | Changes how chat reporting and message signing are handled on supported servers |
-| **[More Chat History](https://modrinth.com/mod/morechathistory)** | Keeps a larger chat history than vanilla |
-| **[Chat Heads](https://modrinth.com/mod/chat-heads)** | Adds player heads next to chat messages |
+<table data-search="false">
+<thead>
+<tr>
+<th>Mod</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong><a href="https://modrinth.com/mod/no-chat-reports">No Chat Reports</a></strong></td>
+<td>Changes how chat reporting and message signing are handled on supported servers</td>
+</tr>
+<tr>
+<td><strong><a href="https://modrinth.com/mod/morechathistory">More Chat History</a></strong></td>
+<td>Keeps a larger chat history than vanilla</td>
+</tr>
+<tr>
+<td><strong><a href="https://modrinth.com/mod/chat-heads">Chat Heads</a></strong></td>
+<td>Adds player heads next to chat messages</td>
+</tr>
+</tbody></table>
 
 These mods are mainly QoL/cosmetic changes. Server-side chat rules still apply.
 
@@ -89,13 +125,43 @@ Useful multiplayer features include:
 
 Default Renice³ map controls:
 
-| Action | Key |
-|---|---:|
-| Open World Map | `M` |
-| Minimap Settings | `Y` |
-| New Waypoint | `B` |
-| Waypoints List | `U` |
-| Toggle Minimap | `;` |
-| Instant Waypoint | `.` |
-| Open Minimap Settings | `]` |
-| Quick Confirm | `Right Shift` |
+<table data-search="false">
+<thead>
+<tr>
+<th>Action</th>
+<th align="right">Key</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Open World Map</td>
+<td align="right"><code>M</code></td>
+</tr>
+<tr>
+<td>Minimap Settings</td>
+<td align="right"><code>Y</code></td>
+</tr>
+<tr>
+<td>New Waypoint</td>
+<td align="right"><code>B</code></td>
+</tr>
+<tr>
+<td>Waypoints List</td>
+<td align="right"><code>U</code></td>
+</tr>
+<tr>
+<td>Toggle Minimap</td>
+<td align="right"><code>;</code></td>
+</tr>
+<tr>
+<td>Instant Waypoint</td>
+<td align="right"><code>.</code></td>
+</tr>
+<tr>
+<td>Open Minimap Settings</td>
+<td align="right"><code>]</code></td>
+</tr>
+<tr>
+<td>Quick Confirm</td>
+<td align="right"><code>Right Shift</code></td>
+</tr>
+</tbody></table>

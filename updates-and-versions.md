@@ -14,13 +14,13 @@ A.B.C[-stage]
 
 ## Release stages
 
-- `alpha` - early builds of the modpack. For example, when a drop has just released, but most mods are not updated or included yet. Also used when a new mod is added with raw configuration, or when a mod is removed.
+- `alpha` - early builds with an incomplete intended mod list or largely untested configuration.
 
-- `beta` - builds where issues with configuration are partially fixed, but not all mods may be updated for the required drop yet.
+- `beta` - usable builds whose mod list, configuration, and defaults are still being refined and tested.
 
-- `rc` - release candidate, where the mod list is included and the technical side works correctly, but some settings, configs, or defaults still need final review and polish.
+- `rc` - feature-complete builds with no known release-blocking issues, awaiting final verification.
 
-- `release` - stable, cleanly assembled builds without major known issues or critical conflicts.
+- `release` - verified stable builds without major known issues or critical conflicts.
 
 Stable releases omit the stage suffix (for example, `2.1.2`).
 

@@ -14,16 +14,17 @@ It is meant to help you quickly find practical info about how the pack is config
 
 ## Wiki contents
 
-- **[Standard options](standard-options.md)** - what standard settings the modpack changes.
-- **[Mod usage](mod-usage.md)** - everything about how the modpack improves utility mod settings. How to use them, new hotkeys, and other features.
-- **[Multiplayer](multiplayer.md)** - how the modpack affects the multiplayer experience.
-- **[Updates and versions](updates-and-versions.md)** - how updates work, how often releases come out and so on.
+See how Renice³ changes Minecraft's defaults in [Standard options](standard-options.md).
+
+Explore the features and hotkeys in [Mod usage](mod-usage.md), and learn what to expect when playing online in [Multiplayer](multiplayer.md).
+
+For release information, see [Updates and versions](updates-and-versions.md).
 
 ## External resources
 
-- **[GitHub repository](https://github.com/ReniceMC/renice-cubed)** - main project repository.
-- **[Mod list](https://github.com/ReniceMC/renice-cubed/blob/main/MOD-LIST.md)** - current included mods.
-- **[Changelog](https://github.com/ReniceMC/renice-cubed/blob/main/CHANGELOG.md)** - release history.
+Download Renice³ on [Modrinth](https://modrinth.com/modpack/renice-cubed) or [CurseForge](https://www.curseforge.com/minecraft/modpacks/renice-cubed).
+
+Visit our [GitHub repository](https://github.com/ReniceMC/renice-cubed), browse the [mod list](https://github.com/ReniceMC/renice-cubed/blob/main/MOD-LIST.md), or check the [changelog](https://github.com/ReniceMC/renice-cubed/blob/main/CHANGELOG.md).
 
 {% hint style="warning" %}
 Pack versions are released dynamically, so some wiki details may not always match the latest version. We try to keep the wiki fully up to date.

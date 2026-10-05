@@ -37,7 +37,7 @@ To host a temporary world:
 Voice chat is server-based. It works when the server supports it. On servers without Simple Voice Chat, you can still play normally, but the voice chat features are unavailable.
 {% endhint %}
 
-## Voice chat controls
+### Voice chat controls
 
 Renice³ uses these voice chat controls:
 
@@ -72,7 +72,7 @@ Renice³ uses these voice chat controls:
 
 You can change these in **Options** → **Controls** → **Key binds...**.
 
-## Proximity and group voice
+### Proximity and group voice
 
 Proximity voice chat lets you hear nearby players based on distance. It is useful for survival, building, exploring, and casual multiplayer sessions where players stay close to each other.
 

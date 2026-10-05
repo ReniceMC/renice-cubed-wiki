@@ -11,88 +11,71 @@ Because of this, the modpack may have a specific but still convenient and practi
 <table data-search="false">
 <thead>
 <tr>
-<th>Mod / Feature</th>
 <th>Action</th>
 <th align="right">Key</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>Accurate Block Placement Reborn</td>
 <td>Accurate Placement toggle</td>
 <td align="right"><code>Grave Accent</code></td>
 </tr>
 <tr>
-<td>Accurate Block Placement Reborn</td>
 <td>Toggle Breaking Mode</td>
 <td align="right"><code>=</code></td>
 </tr>
 <tr>
-<td>Debug</td>
 <td>Cycle spectator</td>
 <td align="right"><code>Right Alt</code></td>
 </tr>
 <tr>
-<td>Debug</td>
 <td>Show chunk boundaries</td>
 <td align="right"><code>Insert</code></td>
 </tr>
 <tr>
-<td>Renice Shot</td>
 <td>Take 4K screenshot</td>
 <td align="right"><code>F9</code></td>
 </tr>
 <tr>
-<td>Full Brightness Toggle</td>
 <td>Toggle full brightness</td>
 <td align="right"><code>N</code></td>
 </tr>
 <tr>
-<td>Inventory HUD+</td>
 <td>Toggle inventory HUD</td>
 <td align="right"><code>F8</code></td>
 </tr>
 <tr>
-<td>Inventory HUD+</td>
 <td>Open config</td>
 <td align="right"><code>O</code></td>
 </tr>
 <tr>
-<td>Iris</td>
 <td>Reload shaders</td>
 <td align="right"><code>R</code></td>
 </tr>
 <tr>
-<td>Iris</td>
 <td>Toggle shaders</td>
 <td align="right"><code>K</code></td>
 </tr>
 <tr>
-<td>Iris</td>
 <td>Open shader pack selection</td>
 <td align="right"><code>-</code></td>
 </tr>
 <tr>
-<td>Jade</td>
 <td>Show details</td>
 <td align="right"><code>Left Shift</code></td>
 </tr>
 <tr>
-<td>MaLiLib</td>
 <td>Open config menu</td>
 <td align="right"><code>.</code> + <code>\</code></td>
 </tr>
 <tr>
-<td>Quick Actions</td>
 <td>Open quick actions</td>
 <td align="right"><code>F7</code></td>
 </tr>
 <tr>
-<td>Zoomify</td>
 <td>Default zoom</td>
 <td align="right"><code>C</code></td>
 </tr>
 <tr>
-<td>Zoomify</td>
 <td>Secondary zoom</td>
 <td align="right"><code>F6</code></td>
 </tr>

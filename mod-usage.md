@@ -10,7 +10,7 @@ Due to the number of QoL and tweak mods, many additional hotkeys are added, and 
 
 Because of this, the modpack may have a specific but still convenient and practical set of hotkeys. You can always change them to your preference by going to **Options → Controls → Key Binds…**.
 
-## General utility
+### General utility
 
 <table data-search="false">
 <thead>
@@ -85,7 +85,7 @@ Because of this, the modpack may have a specific but still convenient and practi
 </tr>
 </tbody></table>
 
-## JEI
+### JEI
 
 <table data-search="false">
 <thead>
@@ -104,7 +104,7 @@ Because of this, the modpack may have a specific but still convenient and practi
 </tr>
 </tbody></table>
 
-## Simple Voice Chat
+### Simple Voice Chat
 
 <table data-search="false">
 <thead>
@@ -135,7 +135,7 @@ Because of this, the modpack may have a specific but still convenient and practi
 </tr>
 </tbody></table>
 
-## MiniHUD
+### MiniHUD
 
 <table data-search="false">
 <thead>
@@ -170,7 +170,7 @@ Because of this, the modpack may have a specific but still convenient and practi
 </tr>
 </tbody></table>
 
-## Map and waypoint
+### Map and waypoint
 
 <table data-search="false">
 <thead>
@@ -222,7 +222,7 @@ Because of this, the modpack may have a specific but still convenient and practi
 </tr>
 </tbody></table>
 
-## Tweakeroo
+### Tweakeroo
 
 <table data-search="false">
 <thead>
@@ -289,7 +289,7 @@ Because of this, the modpack may have a specific but still convenient and practi
 </tr>
 </tbody></table>
 
-## Litematica
+### Litematica
 
 <table data-search="false">
 <thead>

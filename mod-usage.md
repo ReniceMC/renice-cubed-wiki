@@ -4,7 +4,7 @@ icon: keyboard
 
 # Mod usage
 
-## Hotkeys
+# Hotkeys
 
 Due to the number of QoL and tweak mods, many additional hotkeys are added, and some of them can conflict with each other. Renice³ tries to resolve these issues as much as possible.
 

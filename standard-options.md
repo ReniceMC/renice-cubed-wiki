@@ -1,3 +1,7 @@
+---
+icon: sliders
+---
+
 # Standard options
 
 ## First-launch and your privacy

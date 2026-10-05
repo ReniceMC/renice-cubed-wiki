@@ -1,3 +1,7 @@
+---
+icon: keyboard
+---
+
 # Mod usage
 
 ## Hotkeys

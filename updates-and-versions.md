@@ -1,3 +1,7 @@
+---
+icon: clock-rotate-left
+---
+
 ## Version numbers
 
 The versioning system of our modpack looks like this:

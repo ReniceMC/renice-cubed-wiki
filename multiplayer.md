@@ -1,3 +1,7 @@
+---
+icon: globe
+---
+
 # Multiplayer
 
 The modpack is comfortable for both servers and sessions with friends. The pack adds world hosting, voice chat, cleaner chat behavior, and better navigation tools.

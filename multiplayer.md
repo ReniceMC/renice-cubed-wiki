@@ -127,7 +127,7 @@ Useful multiplayer features include:
 - deathpoints;
 - waypoint lists.
 
-Default Renice³ map controls:
+### Map controls
 
 <table data-search="false">
 <thead>

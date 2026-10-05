@@ -10,8 +10,6 @@ Greetings! :з
 
 This wiki explains how Renice³ affects your overall gameplay experience and how you can use everything included in the modpack.
 
-It is meant to help you quickly find practical info about how the pack is configured, how selected utility mods are intended to be used, and what to keep in mind.
-
 ## Wiki contents
 
 See how Renice³ changes Minecraft's defaults in [Standard options](standard-options.md).

@@ -4,8 +4,6 @@ icon: house-chimney
 
 # Renice³ Wiki
 
-![](https://www.dropbox.com/scl/fi/sfumw1bzi88tfowllsime/rc_main-page-artwork.png?rlkey=x4r0rsmogbu0p258y02o2zbu3&raw=1)
-
 Greetings! :з
 
 This wiki explains how Renice³ affects your overall gameplay experience and how you can use everything included in the modpack.
